@@ -1,5 +1,7 @@
 #Jazoon | Workshop - Angular 2
 
+[![Join the chat at https://gitter.im/gsans/jazoon-ng2-workshop](https://badges.gitter.im/gsans/jazoon-ng2-workshop.svg)](https://gitter.im/gsans/jazoon-ng2-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Instructions and Setup](http://bit.ly/jazoon-workshop-doc)
 
 > Based on https://github.com/angular-class/angular2-webpack-starter.
